@@ -1,5 +1,6 @@
 # The-car
-Game 'The car' developed by Adam Franz (Hansik)\
+![alt text](https://i.imgur.com/knhtKac.png) \
+Game 'The car' developed by Adam Franz (Hansik) \
 Written in C++ with SFML library (https://www.sfml-dev.org) \
 Version: 1.1 \
 My web page: https://www.hansik.pl \
@@ -16,3 +17,5 @@ Sources:
 - http://pngimg.com/download/33144
 - https://github.com/SFML/SFML/wiki/Source:-Simple-Collision-Detection-for-SFML-2#collisionh
 - https://www.freesoundeffects.com/free-sounds/applause-10033/
+
+Ride, avoid oncoming cars and get as many as possible score. The more score, the game becomes harder.
