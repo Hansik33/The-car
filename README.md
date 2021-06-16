@@ -1,8 +1,8 @@
 # The-car
-Game 'The car' developed by Adam Franz (Hansik)
-Written in C++ with SFML library (https://www.sfml-dev.org)
-Version: 1.1
-My web page: https://www.hansik.pl
+Game 'The car' developed by Adam Franz (Hansik)\
+Written in C++ with SFML library (https://www.sfml-dev.org) \
+Version: 1.1 \
+My web page: https://www.hansik.pl \
 Sources:
 - https://opengameart.org/content/2d-top-down-highway-background
 - https://opengameart.org/content/free-top-down-car-sprites-by-unlucky-studio
