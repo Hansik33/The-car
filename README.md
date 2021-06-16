@@ -18,4 +18,4 @@ Sources:
 - https://github.com/SFML/SFML/wiki/Source:-Simple-Collision-Detection-for-SFML-2#collisionh
 - https://www.freesoundeffects.com/free-sounds/applause-10033/
 
-Ride, avoid oncoming cars and get as many as possible score. The more score, the game becomes harder.
+Ride, avoid cars and get as many as possible score. The more score, the game becomes harder.
