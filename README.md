@@ -1,5 +1,4 @@
 # The-car
-My first SFML game
 Game 'The car' developed by Adam Franz (Hansik)
 Written in C++ with SFML library (https://www.sfml-dev.org)
 Version: 1.1
