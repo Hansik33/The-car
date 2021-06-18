@@ -1,7 +1,7 @@
 # The car
 ![alt text](https://i.imgur.com/knhtKac.png) \
 Game 'The car' developed by Adam Franz (Hansik) \
-Written in C++ with SFML library (https://www.sfml-dev.org) \
+Written in C++ with SFML 2.5.1 library (https://www.sfml-dev.org) \
 Version: 1.1 \
 My web page: https://www.hansik.pl \
 Sources:
